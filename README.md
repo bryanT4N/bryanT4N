@@ -6,4 +6,6 @@
 |____/|_| \_\|_/_/   \_\_| \_|   |_/_/   \_\_| \_|
 ```
 
-I'm a game developer who mainly programs in C++. I build games because I love to. :)
+Hi, I'm a game developer who mainly programs in C++. I build games because I love to. :)
+
+Right now I mostly work on the [SD game engine](https://github.com/bryanT4N/SD-Engine) at school. I write small tools on the side.
