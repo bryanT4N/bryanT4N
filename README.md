@@ -1,5 +1,9 @@
-### Hi, I'm Bryan Tan (谭磊轩) :)
+```text
+ ____  ______   __ _    _   _   _____  _    _   _
+| __ )|  _ \ \ / // \  | \ | | |_   _|/ \  | \ | |
+|  _ \| |_) \ V // _ \ |  \| |   | | / _ \ |  \| |
+| |_) |  _ < | |/ ___ \| |\  |   | |/ ___ \| |\  |
+|____/|_| \_\|_/_/   \_\_| \_|   |_/_/   \_\_| \_|
+```
 
-I'm a game developer. I build games because I love to. I mainly program in C++.
-
-Right now I mostly work on the [SD game engine](https://github.com/bryanT4N/SD-Engine) at school. I write small tools on the side.
+I'm a game developer who mainly programs in C++. I build games because I love to. :)
