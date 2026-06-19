@@ -1,4 +1,4 @@
-![ArachNOT gameplay](assets/ArachNOT.gif)
+<img src="assets/ArachNOT.gif" alt="ArachNOT gameplay" width="100%" />
 
 <!--
 ```text
