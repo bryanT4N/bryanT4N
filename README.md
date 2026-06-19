@@ -1,4 +1,6 @@
-<img src="assets/ArachNOT.gif" alt="ArachNOT gameplay" width="100%" />
+<p align="center">
+  <img src="assets/ArachNOT.gif" alt="ArachNOT gameplay" />
+</p>
 
 <!--
 ```text
