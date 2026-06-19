@@ -1,4 +1,4 @@
-# Hi, I'm Bryan Tan.
+# Hi, I'm Bryan Tan. :)
 
 <p align="center">
   <img src="assets/ArachNOT.gif" alt="ArachNOT gameplay" />
@@ -14,7 +14,7 @@
 ```
 -->
 
-I'm a game developer who mainly programs in C++. I love games. :)
+I'm a game developer who mainly programs in C++. I love games.
 
 Right now I mostly work on the SD game engine at school. On the side, I make all sorts of small helper tools.
 
