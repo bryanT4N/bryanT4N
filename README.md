@@ -14,13 +14,13 @@
 ```
 -->
 
-I am a game developer who develops games using C++, Unity and Unreal Engine. 
+I am a game developer who develops games using C++, Unity and Unreal Engine. I love games. 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-I love games. My favorite games are Rune Factory 3, Rocket League, Baldur's Gate 3, and Pokémon Gen 5 & 6. Currently learning Street Fighter 6.
+My favorite games are Rune Factory 3, Rocket League, Baldur's Gate 3, and Pokémon Gen 5 & 6. Currently learning Street Fighter 6.
 
 -> Learn more about me on my [**personal website**](https://bryantan.net/zh-cn/).
 
