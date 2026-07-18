@@ -14,7 +14,7 @@
 ```
 -->
 
-I'm a game developer who mainly programs in C++. I love games.
+I'm a game developer who mainly programs in C++. I love games. My favorite games are Rune Factory 3, Rocket League, Baldur's Gate 3, and Pokémon Gen 5 & 6. Currently learning Street Fighter 6.
 
 Right now I mostly work on the SD game engine at school. On the side, I make all sorts of small helper tools.
 
